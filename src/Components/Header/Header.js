@@ -1,7 +1,4 @@
 import React from 'react'
-import Container from 'react-bootstrap/Container';
-import Nav from 'react-bootstrap/Nav';
-import Navbar from 'react-bootstrap/Navbar';
 import './Header.css'
 
 const Header = () => {
@@ -9,7 +6,7 @@ const Header = () => {
         <>
             <nav className="nav-wrapper">
                 <div className="nav-content">
-                    <img className="logo" src="./assets/image/logo.svg" alt="logo" />
+                    <img className="logo" src="./assets/image/logo192.png" alt="logo" />
                     <ul>
                         <li classNmae="menu-item">Home</li>
 
@@ -22,8 +19,6 @@ const Header = () => {
                         <li classNmae="menu-item">Contect Me</li>
                         <button className="contact-btn" onClick={() => { }}>Hire Me</button>
                     </ul>
-
-
                 </div>
             </nav>
         </>
