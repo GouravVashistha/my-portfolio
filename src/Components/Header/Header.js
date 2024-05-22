@@ -6,7 +6,8 @@ const Header = () => {
         <>
             <nav className="nav-wrapper">
                 <div className="nav-content">
-                    <img className="logo" src="./assets/image/name.svg" alt="logo" />
+                    {/* <img className="logo" src="./assets/image/name.svg" alt="logo" /> */}
+                    <h1>Gaurav</h1>
                     <ul>
                         <li className="menu-item">Home</li>
                         <li className="menu-item">About</li>
