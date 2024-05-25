@@ -8,6 +8,7 @@ const Header = () => {
                 <div className="nav-content">
                     {/* <img className="logo" src="./assets/image/name.svg" alt="logo" /> */}
                     <h1>Gaurav</h1>
+                    <h2>vashistha</h2>
                     <ul>
                         <li className="menu-item">Home</li>
                         <li className="menu-item">About</li>
