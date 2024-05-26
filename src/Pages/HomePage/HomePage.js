@@ -1,9 +1,12 @@
 import React from 'react';
+import { HeroPage } from '../../Components/HeroPage/HeroPage';
 import './HomePage.css';
 
 const HomePage = () => {
     return (
-        <div>HomePage</div>
+        <>
+            <HeroPage />
+        </>
     )
 }
 
