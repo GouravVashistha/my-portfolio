@@ -5,6 +5,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+
 }
 
 .nav-content {
@@ -49,6 +50,7 @@ ul {
     text-transform: uppercase;
     margin-left: auto;
     /* Align to the right */
+
 }
 
 .contact-btn:hover {

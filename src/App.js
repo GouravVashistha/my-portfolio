@@ -1,13 +1,17 @@
 
 import './App.css';
 import Header from './Components/Header/Header';
-import HomePage from './Pages/HomePage/HomePage';
+import { HeroPage } from './Components/HeroPage/HeroPage';
+
 
 function App() {
   return (
     <div>
       <Header />
-      <HomePage />
+      <div className="container">
+        <HeroPage />
+      </div>
+
     </div>
   );
 }
