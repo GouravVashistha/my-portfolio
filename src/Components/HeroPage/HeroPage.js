@@ -17,7 +17,7 @@ export const HeroPage = () => {
                         </div>
                         <div className="col-md-6">
                             <div className="hero-img ">
-                                <img className="hero" src="./assets/image/myphoto.png" alt="Hero" />
+                                <img className="hero" src="./assets/image/hero.png" alt="Hero" />
                             </div>
                         </div>
                     </div>

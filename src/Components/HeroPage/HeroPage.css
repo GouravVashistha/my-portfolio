@@ -20,8 +20,10 @@
 }
 
 .hero {
-    width: 80%;
-    border-radius: 45%;
+    width: 450px;
+    height: 450px;
+    border-radius: 50%;
     padding: 10px 20px;
     margin: 100px;
+
 }
