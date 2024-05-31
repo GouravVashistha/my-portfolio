@@ -18,7 +18,7 @@ export const HeroPage = () => {
                         <div className="col-md-6">
                             <div className="hero-img ">
                                 <img className="hero" src="./assets/image/hero.png" alt="Hero" />
-                                <h1>hey there</h1>
+
                             </div>
                         </div>
                     </div>
